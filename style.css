@@ -1,0 +1,38 @@
+* {
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+}
+#main{
+    margin: 0 auto;
+    width: 400px;
+}
+
+*{
+    box-sizing: border-box;
+}
+footer{
+    text-align: center;
+
+}
+th{
+    border: 1px solid #000;
+    text-align: center;
+}
+.item{
+    width: 100%;
+}
+.hello{
+    width: 100%;
+}
+*{
+    background-color: rgb(4, 4, 4);
+}
+*{
+    color: aliceblue;
+
+}
+a{
+    color: rgb(255, 0, 191);
+}
