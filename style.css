@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+}
+#main{
+    margin: 0 auto;
+    width: 400px;
+}
+
+footer{
+    text-align: center;
+
+}
+
+.item{
+    width: 100%;
+}
+
+.navi{
+    display: inline-block;
+    border: 1px solid black;
+    width: 50%;
+    text-align: center;
+}
+
+*{
+    background-color: aqua;
+}
+
+
+header{
+    position: fixed;
+    top: 0;
+}
+
+
+#cat{
+    margin-top: 200px;
+}
