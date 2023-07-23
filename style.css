@@ -1,0 +1,42 @@
+* {
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+}
+#main{
+    margin: 0 auto;
+    width: 400px;
+}
+ footer{
+    text-align: center; /* 文を中央に持ってくる */
+}
+.item {
+    width: 100%; /* 幅を親要素に対して半分に設定 */
+}
+.navi{
+    display: inline-block;
+    border: 1px solid black;
+    text-align: center;
+    width: 50%;
+}
+
+header img{
+    width: 100%;
+}
+
+header {
+    position: relative;
+}
+
+header p {
+    position: absolute;
+    top: 41%;
+    left: 35%;
+    color: aliceblue;
+    font-size: 100px;
+    margin: 0;
+    padding: 0;
+
+}
+
