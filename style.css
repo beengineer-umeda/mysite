@@ -1,0 +1,34 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    background-color: rgb(78, 143, 86);
+}
+
+header{
+    width: 100%;
+}
+
+.main{
+    margin: 0 auto;
+    width: 500px;
+    
+}
+
+#item{
+    width: 100%;
+}
+
+footer{
+    text-align: center;
+}
+
+.navi{
+    display: inline-block;
+    text-align: center;
+    width: 25%;
+    border: 1px solid black;
+}
+
